@@ -1,5 +1,5 @@
 # 💫 About Me:
-🤖 Now AI and DS Enthusiast<br>👨‍💻 Completed Java with Selenium<br>🔍 Worked as a Quality Assistant Assurance<br>🔎 Good internal audit knowledge<br>📝 Good documentation knowledge
+🤖 Working as Gen AI Engineer<br>👨‍💻 Completed Java with Selenium<br>🔍 Worked as a Quality Assistant Assurance<br>🔎 Good internal audit knowledge<br>📝 Good documentation knowledge
 
 
 ## 🌐 Socials:
